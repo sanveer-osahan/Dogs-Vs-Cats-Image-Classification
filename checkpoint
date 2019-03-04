@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\PycharmProjects\\Machine_Learning\\Dogs_Vs_Cats_Image_Classification\\dogs_vs_cats-0.001-6conv-basic.model"
+all_model_checkpoint_paths: "C:\\PycharmProjects\\Machine_Learning\\Dogs_Vs_Cats_Image_Classification\\dogs_vs_cats-0.001-6conv-basic.model"
